@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#uniqueP{
+    background-color: yellow;
+    font-size: 15px;
+    color: rgb(49, 49, 126);
+    border-top: solid;
+}
+p{
+    margin-top: 0;
+    border-top: solid;
+    background-color: yellow;
+    padding-top: 18px;
+}
+h3{
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+input{
+    margin-bottom: 30px;
+}
+#input1{
+    width: 370px;
+    margin-right: 0;
+}
+#input2{
+    margin-left: -4px;
+    width: 90px;
+}
+.a1{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: rgb(193, 31, 31);
+    color: rgb(155, 169, 218);
+}
+#sect2{
+    margin-top: 20px;
+    display: inline-block;
+}

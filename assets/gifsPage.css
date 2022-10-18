@@ -11,10 +11,12 @@ img{
     height: 150px;
     margin: 0 15px;
 }
-a{
+.a1{
     text-decoration: none;
-    /* border: solid; */
     padding: 10px 15px;
     background-color: rgb(193, 31, 31);
     color: rgb(155, 169, 218);
+}
+section{
+    display: inline-block;
 }
