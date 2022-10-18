@@ -2,7 +2,7 @@
 body{
     font-family: 'Noto Sans KR', sans-serif;
     text-align: center;
-    background-image: url("90img.gif");
+    background-image: url("gifs/90img.gif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
@@ -24,11 +24,13 @@ header p{
     color: crimson;
     text-decoration: none;
 }
-#p2{
+#p2 a{
     color: blue;
+    text-decoration: none;
 }
-#p3{
+#p3 a{
     color: green;
+    text-decoration: none;
 }
 #para{
     color: yellow;

@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    padding-top: 8%;
+    background-color: rgb(237, 241, 240);
+}
+p{
+    display: inline-block;
+}
+img{
+    width: 200px;
+    height: 150px;
+    margin: 0 15px;
+}
+a{
+    text-decoration: none;
+    /* border: solid; */
+    padding: 10px 15px;
+    background-color: rgb(193, 31, 31);
+    color: rgb(155, 169, 218);
+}
