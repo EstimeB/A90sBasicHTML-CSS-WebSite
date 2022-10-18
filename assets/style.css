@@ -20,8 +20,9 @@ header p{
     font-size: 25px;
     padding: 0 5px;
 }
-#p1{
+#p1 a{
     color: crimson;
+    text-decoration: none;
 }
 #p2{
     color: blue;
@@ -29,6 +30,59 @@ header p{
 #p3{
     color: green;
 }
+#para{
+    color: yellow;
+}
+#para2{
+    color: aquamarine;
+}
+#para3{
+    color: rgb(223, 189, 145);
+}
 #p4{
-    color: rgb(81, 15, 71);
+    font-size: 17px;
+    padding: 0;
+    background-color: black;
+    color: rgb(147, 39, 131);
+}
+#sect1{
+    padding: 0 23%;
+}
+#isolatedp{
+    color: red;
+}
+#sect2{
+    padding: 0 15%;
+}
+#sect2 p{
+    font-size: 17px;
+    padding: 5px 15px;
+    background-color: rgb(193, 31, 31);
+    color: rgb(155, 169, 218);
+}
+#sect3{
+    text-align: left;
+    border: solid;
+    border-right: 15px;
+    border-color: gray;
+    margin: 0 22%;
+    background-color: rgb(199, 216, 173);
+    margin-bottom: 20px;
+}
+#sect3 p{
+    font-size: 17px;
+    padding: 5px 15px;
+    color: black;
+}
+h3, h4{
+    font-size: 17px;
+    padding: 5px 15px;
+    color: black;
+}
+#sect4 a{
+    text-decoration: none;
+    /* border: solid; */
+    padding: 10px 15px;
+    background-color: rgb(193, 31, 31);
+    color: rgb(155, 169, 218);
 }
